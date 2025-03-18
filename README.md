@@ -10,7 +10,7 @@ A mobile fitness tracker app built using React Native.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/ReactNative-FitnessApp.git
+git clone https://github.com/Jarri-24-7/ReactNative-FitnessApp.git
 cd ReactNative-FitnessApp
 npm install
 npx react-native run-android
